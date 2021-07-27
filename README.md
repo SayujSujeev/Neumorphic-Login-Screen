@@ -14,5 +14,6 @@ If you found this project useful, then please consider giving it a :star: on Git
 ### Neumorphic Login UI
 
 ![App UI](/neumoallscr.png)
+![App UI](/neumorphic.gif)
 ![App UI](/neumothumb.png)
 
